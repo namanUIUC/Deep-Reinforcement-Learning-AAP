@@ -1,0 +1,12 @@
+seaborn
+statistics
+numpy
+scipy
+pandas
+sklearn
+tabulate
+matplotlib
+plotly
+tensorflow
+tqdm
+colorama
